@@ -1,3 +1,4 @@
 # NumericalMethods_Second_Homework
-Implementing PageRank 
-// Rated with a maximum score
+It implements PageRank.
+
+It was rated with a maximum score.
